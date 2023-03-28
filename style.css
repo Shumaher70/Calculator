@@ -28,6 +28,7 @@ button {
   width: 100%;
   font-size: 7rem;
   padding: 0.5rem;
+  border-radius: 15px 15px 0 0;
   background: rgb(41, 41, 56);
   color: white;
   border: none;
@@ -56,10 +57,11 @@ button {
 .btn-equal {
   background-color: green;
   font-size: 4rem;
+  cursor: pointer;
 }
 
 .btn-clear {
   background-color: red;
-  cursor: pointer;
   font-size: 4rem;
+  cursor: pointer;
 }
